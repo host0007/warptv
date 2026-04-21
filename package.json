@@ -1,0 +1,62 @@
+{
+  "name": "warptv",
+  "version": "1.0.1",
+  "description": "WarpTV Rich Presence",
+  "main": "main.js",
+  "author": "WarpTV",
+  "license": "ISC",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron .",
+    "build": "electron-builder"
+  },
+  "dependencies": {
+    "@xhayper/discord-rpc": "^1.3.3",
+    "auto-launch": "^5.0.6",
+    "cors": "^2.8.6",
+    "electron-updater": "^6.8.3",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "electron": "^41.2.1",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.warptv.app",
+    "productName": "WarpTV",
+    "files": [
+      "**/*"
+    ],
+    "extraResources": [
+      {
+        "from": "icon.ico",
+        "to": "icon.ico"
+      },
+      {
+        "from": "splash.png",
+        "to": "splash.png"
+      }
+    ],
+    "publish": {
+      "provider": "github",
+      "owner": "host0007",
+      "repo": "warptv"
+    },
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "artifactName": "WarpTV-Setup-${version}.${ext}"
+    }
+  }
+}
