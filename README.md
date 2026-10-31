@@ -11,7 +11,7 @@ WarpPlayer não hospeda, vende, inclui, ou distribuir canais, filmes, séries, p
 
   <span style="font-size: 1.5em; font-weight: bold; display: block; margin-bottom: 0.5em;">Baixar</span>
 
-  [Download](https://github.com/host0007/warptv/releases/download/v1.0.38/WarpPlayer-Setup-1.0.38.exe)
+  [Download](https://github.com/host0007/warptv/releases/download/v1.0.39/WarpPlayer-Setup-1.0.39.exe)
 
 </div>
 
