@@ -1,4 +1,6 @@
-# 🐙 Warp Player
+<p align="center">
+  <img src="https://i.imgur.com/ItHf8sO.png" width="550" height="150" />
+</p>
 
 > [!WARNING]
 >  **Atenção:** **WarpPlayer é um reprodutor de vídeo. Não oferecemos nenhum tipo de canal, assinatura, conteúdo ou qualquer coisa relacionada a Serviços de Streaming e Serviços de IPTV.**
