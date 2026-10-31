@@ -13,7 +13,7 @@ WarpPlayer não hospeda, vende, inclui, ou distribuir canais, filmes, séries, p
 <div align="center">
   <span style="font-size: 1.25em; font-weight: bold; display: block; margin-bottom: 1em;">📸 Capturas de Tela</span>
 
-  ![](https://i.imgur.com/AU70WiN.png) ![](https://placeholder.com) ![](https://placeholder.com) ![](https://placeholder.com) ![](https://placeholder.com)
+  ![](https://i.imgur.com/AU70WiN.png) ![](https://i.imgur.com/PcBEM8y.jpeg) ![](https://i.imgur.com/G55g55w.jpeg) ![](https://i.imgur.com/rMkUWhW.png) ![](https://i.imgur.com/GnOf5nH.png)
 </div>
 
 
