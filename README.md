@@ -53,7 +53,6 @@ WarpPlayer não hospeda, vende, inclui, ou distribuir canais, filmes, séries, p
 > Qualquer alteração feita na pasta **WarpPlayerUser** pode ocasionar a perda de dados sensíveis como login, senha e seu histórico de conteúdo.
 
 > [!CAUTION]
-> - Any changes made to the **WarpPlayerUser** folder may result in the loss of sensitive data, such as your login credentials and viewing history.
 > - **Please Note:** **WarpPlayer** is strictly a video player. We do not provide, sell, or offer any type of channels, subscriptions, content, or anything related to Streaming Services and IPTV Services. Users must provide their own content.
 
 
